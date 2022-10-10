@@ -14,7 +14,6 @@
     <li>Git / GitHub | Docker | HeidiSQL | Postman</li>
 </ul>
 
-////////////
 <br>
 <p>🌼The rest of the time I work and research on visual arts and design field.</p>
 
