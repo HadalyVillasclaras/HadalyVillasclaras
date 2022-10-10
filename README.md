@@ -8,12 +8,14 @@
     <li>JavaScript | TypeScript</li>
     <li>React</li>
     <li>HTML5 & CSS3 | SCSS</li>
-    <p>🛠 Tools:</p>
+</ul>
+<p>🛠 Tools:</p>
+<ul>
     <li>Git / GitHub | Docker | HeidiSQL | Postman</li>
 </ul>
 
-//
+////////////
+<br>
+<p>I also work and research on visual art and design field.</p>
 
-The rest of my time I work and investigate around: visual culture & the internet, digital narratives, and the link between new medias and traditional artistic practices.
-
-👩🏻‍🎓 I hold a BFA and a MFA from University of Málaga(Spain) and a Higher Technical Degree in Software/Web Development.
+<p>👩🏻‍🎓 I hold a BFA and a MFA from University of Málaga(Spain) and a Higher Technical Degree in Software/Web Development.</p>
