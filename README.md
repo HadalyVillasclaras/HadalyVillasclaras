@@ -3,7 +3,7 @@
 <p>I’m currently working as a junior full stack developer in the mornings 🌞</p>
 <p>Current stack:</p>
 <ul style="list-style-type:circle;">
-    <li>PHP (Symfony) - 🌿 Following Hexagonal & Clean Architectures / DDD / SOLID</li>
+    <li>PHP (Symfony) - 🌿 Following Hexagonal & Clean Architectures / Domain-Driven Design / SOLID</li>
     <li>SQL - Doctrine / ElasticSearch</li>
     <li>PHPUnit - TDD</li>
     <li>React</li>
