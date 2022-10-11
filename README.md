@@ -1,6 +1,6 @@
 <h3>Hi 👋🏻 </h3>
 
-<p>I’m currently working as a junior full stack web developer in the mornings 🌞</p>
+<p>I’m currently working as a junior full stack developer in the mornings 🌞</p>
 
 <ul>
     <li>PHP (Symfony) - 🌿 Hexagonal & Clean Architectures / DDD / SOLID</li>
