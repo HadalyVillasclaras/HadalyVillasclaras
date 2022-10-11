@@ -16,7 +16,7 @@
 </ul>
 
 <br>
-<p>🌼The rest of the time I work and research on the visual arts and design field.</p>
+<p>🌼The rest of the time I work and research on the visual arts and design fields.</p>
 
 <p>👩🏻‍🎓 I hold a BFA and a MFA from University of Málaga(Spain) and a Higher Technical Degree in Software/Web Development.</p>
 
