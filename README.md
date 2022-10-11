@@ -1,9 +1,9 @@
 <h3>Hi 👋🏻 </h3>
 
 <p>I’m currently working as a junior full stack developer in the mornings 🌞</p>
-
+<p>Current stack:</p>
 <ul>
-    <li>PHP (Symfony) - 🌿 Hexagonal & Clean Architectures / DDD / SOLID</li>
+    <li>PHP (Symfony) - 🌿 Following Hexagonal & Clean Architectures / DDD / SOLID</li>
     <li>SQL - Doctrine / ElasticSearch</li>
     <li>PHPUnit - TDD</li>
     <li>React</li>
