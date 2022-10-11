@@ -12,7 +12,7 @@
 </ul>
 <p>🛠 Tools:</p>
 <ul>
-    <li>Git / GitHub | Docker | HeidiSQL | Postman</li>
+    <li>Git & GitHub | Docker | HeidiSQL | Postman</li>
 </ul>
 
 <br>
