@@ -1,22 +1,23 @@
 <h3>Hi 👋🏻 </h3>
 
-<p>I’m currently working as a junior full stack developer in the mornings 🌞</p>
+<p>I’m currently working as a junior full-stack developer in the mornings 🌞</p>
 
 <p>👩🏻‍💻 Current stack:</p>
 
 <ul style="list-style-type:circle;">
-    <li>PHP (Symfony) - 🌿 Following Hexagonal & Clean Architectures / Domain-Driven Design pattern / SOLID</li>
+    <li>PHP (Symfony) - 🌿 Applying  Hexagonal & Clean Architectures / Domain-Driven Design pattern / SOLID</li>
     <li>SQL - Doctrine / ElasticSearch</li>
     <li>PHPUnit - TDD</li>
     <li>React</li>
     <li>JavaScript | TypeScript</li>
     <li>HTML5 & CSS3 | SCSS</li>
+    <li>Chakra UI</li>
 </ul>
 
 <p>🛠 Tools:</p>
 
 <ul>
-    <li>Git & GitHub | Docker | HeidiSQL | Postman</li>
+    <li>Git & GitHub | Docker | HeidiSQL | Postman | Figma | Storybook</li>
 </ul>
 
 <br>
