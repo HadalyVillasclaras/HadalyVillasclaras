@@ -8,8 +8,8 @@
     <li>PHP (Symfony) - 🌿 Applying  Hexagonal & Clean Architectures / Domain-Driven Design pattern / SOLID</li>
     <li>SQL - Doctrine / ElasticSearch</li>
     <li>PHPUnit - TDD</li>
-    <li>React</li>
     <li>JavaScript | TypeScript</li>
+    <li>React</li>
     <li>HTML5 & CSS3 | SCSS</li>
     <li>Chakra UI</li>
 </ul>
