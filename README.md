@@ -25,6 +25,7 @@
 <p>🌼 The rest of the time I work and research on the visual arts and design fields.</p>
 
 <p>👩🏻‍🎓 I hold a BFA and a MFA from University of Málaga(Spain) and a Higher Technical Degree in Software/Web Development.</p>
+<p>This year I am enrolled in Samsung Desarrolladoras program and I am doing a curricular internship for the degree in Social Development of Artistic Culture at the UMA-Telefonica Chair.</p>
 
 <p><i>Feel free to contact me</i> :)</p>
 
