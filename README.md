@@ -1,31 +1,28 @@
-<h3>Hi 👋🏻 </h3>
+## Hi 👋🏻 
 
-<p>I’m currently working as a junior full-stack developer in the mornings 🌞</p>
+I’m currently working as a junior full-stack developer in the mornings 🌞
 
-<p>👩🏻‍💻 Current stack:</p>
+👩🏻‍💻 Current stack:
+* React | JavaScript | TypeScript | HTML5 & CSS3 | Chakra UI
+* Symfony | PHP | MySQL | Doctrine | PHPUnit 
 
-<ul style="list-style-type:circle;">
-    <li>PHP (Symfony) - 🌿 Applying Clean Architecture / Domain-Driven Design / SOLID</li>
-    <li>SQL - Doctrine / ElasticSearch</li>
-    <li>PHPUnit - TDD</li>
-    <li>JavaScript | TypeScript</li>
-    <li>React</li>
-    <li>HTML5 & CSS3 | SCSS</li>
-    <li>Chakra UI</li>
-</ul>
+🛠 Tools:
+* Git & GitHub | Docker | HeidiSQL | Postman | Figma | Storybook | Mermaid.js
 
-<p>🛠 Tools:</p>
+---
 
-<ul>
-    <li>Git & GitHub | Docker | HeidiSQL | Postman | Figma | Storybook</li>
-</ul>
+My approach to software development is by applying Clean Architecture and Domain-Driven Design principles 🌿.
 
-<br>
+I'm also interesed in modeling languages, semantic web, accesibility, clean code and good practices. Plus I am passionate about software architecture and design patterns. 
 
-<p>🌼 The rest of the time I work and research on the visual arts and design fields.</p>
 
-<p>👩🏻‍🎓 I hold a BFA and a MFA from University of Málaga(Spain) and a Higher Technical Degree in Software/Web Development.</p>
-<p>This year I am enrolled in Samsung Desarrolladoras program and I am doing a curricular internship for the degree in Social Development of Artistic Culture at the UMA-Telefonica Chair.</p>
+---
 
-<p><i>Feel free to contact me</i> :)</p>
+🌼 The rest of my time I work and research in the field of Visual Arts on digital and post-digital art practices and internet poetics. 
+
+👩🏻‍🎓 I hold a BFA and a MFA from the University of Málaga(Spain) and a Higher Technical Degree in Software/Web Development.
+
+This year I am enrolled in Samsung Desarrolladoras program and in the postgraduate course "Desarrollos Sociales de la Cultura Artística" at the UMA, where I am also doing a curricular internship in the Telefónica-UMA chair.
+
+*Feel free to contact me* :)
 
