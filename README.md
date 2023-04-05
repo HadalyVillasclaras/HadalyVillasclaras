@@ -26,3 +26,6 @@ This year I am enrolled in Samsung Desarrolladoras program and in the postgradua
 
 *Feel free to contact me* :)
 
+---
+
+![](https://komarev.com/ghpvc/?username=HadalyVillasclaras)
