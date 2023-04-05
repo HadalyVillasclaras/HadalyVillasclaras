@@ -11,7 +11,7 @@ I’m currently working as a junior full-stack developer in the mornings 🌞
 
 ---
 
-My approach to software development is by applying Clean Architecture and Domain-Driven Design principles 🌿.
+My approach to software development is by applying 🌿Clean Architecture and Domain-Driven Design principles.
 
 I'm also interesed in modeling languages, semantic web, accesibility, clean code and good practices. Plus I am passionate about software architecture and design patterns. 
 
