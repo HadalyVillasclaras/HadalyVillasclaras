@@ -1,6 +1,6 @@
 ## Hi 👋🏻 
 
-I’m currently working as a junior full-stack developer in the mornings 🌞
+I’m currently working as a junior full-stack web developer in the mornings 🌞
 
 👩🏻‍💻 Current stack:
 * React | JavaScript | TypeScript | HTML5 & CSS3 | Chakra UI | Jest
