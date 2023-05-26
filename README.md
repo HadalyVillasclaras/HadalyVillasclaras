@@ -9,12 +9,10 @@ I’m currently working as a junior full-stack web developer in the mornings �
 🛠 Tools:
 * Git & GitHub | Docker | HeidiSQL | Postman | Figma | Storybook | Mermaid.js
 
----
-
 My approach to software development is by applying 🌿Clean Architecture and Domain-Driven Design principles.
 
 I'm also interesed in modeling languages, semantic web, accesibility, clean code and good practices. Plus I am passionate about software architecture and design patterns. 
-
+---
 
                   _(_)_                          wWWWw   _
       @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
@@ -22,8 +20,8 @@ I'm also interesed in modeling languages, semantic web, accesibility, clean code
       @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\
        /      Y       \|    \|/    /(_)    \|      |/      |
     \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
-jgs \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 🌼 The rest of my time I work and research in the field of Visual Arts on digital and post-digital art practices and internet poetics. 
 
