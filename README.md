@@ -17,9 +17,11 @@ I am currently working in the mornings as a Front-End developer while doing an i
 - Git & GitHub | Vite | Docker | HeidiSQL | Postman | Figma | Storybook | 
 - GSAP | Three.js | p5.js | Mermaid.js
 
--- Graphic design, UX UI tools --
+Graphic design, UX UI tools:
 Adobe Creative Cloud: Photoshop, InDesign, Illustrator, Premiere
 AdobeXD, Figma, InVision Studio
+
+
 ---
 
                   _(_)_                          wWWWw   _
